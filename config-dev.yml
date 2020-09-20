@@ -1,5 +1,5 @@
 spring:
   application:
-    name: master-dev-config
+    name:  master-dev-config
 config:
-  info:1 
+  info:  1 

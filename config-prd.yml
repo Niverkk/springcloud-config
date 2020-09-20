@@ -1,5 +1,5 @@
 spring:
   application:
-    name: master-prd-config
+    name:  master-prd-config
 config:
-  info:1
+  info:  1

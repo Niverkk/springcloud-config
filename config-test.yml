@@ -1,5 +1,5 @@
 spring:
   application:
-    name: master-test-config
+    name:  master-test-config
 config:
-  info:1
+  info:  1
